@@ -20,45 +20,46 @@ En este repositorio encontrarás una recopilación de los proyectos realizados p
 
 **DAW:**<br>
 
-Proyecto [Gestión de guardias](https://github.com/IESJandula/ticketStore) (Gestión de guardias del profesorado):
+Proyecto [Gestión de guardias](https://github.com/IESJandula/gestion_guardias.git) (Gestión de guardias del profesorado):
 - [Pau Barón Jiménez](https://github.com/Paukkita)
 - [Francisco Javier García Pedrajas](https://github.com/frang6)
 - [Álvaro Manuel Solís Martínez](https://github.com/AlvaroS)
 
-Proyecto [Hotel Casa Azul](https://github.com/IESJandula/ticketStore) (Web del hotel casa azul para reserva de habitaciones):
-- [Pau Barón Jiménez](https://github.com/Paukkita)
-- [Francisco Javier García Pedrajas](https://github.com/frang6)
-- [Álvaro Manuel Solís Martínez](https://github.com/AlvaroS)
+Proyecto [Hotel Casa Azul](https://github.com/IESJandula/hotel_casa_azul.git) (Web del hotel casa azul para reserva de habitaciones):
+- [Juan Manuel García Flores](https://github.com/Juanma23255)
+- [Jaime Araque Ruiz](https://github.com/jaimeAR10)
+- [Rafael Martínez Torralba](https://github.com/Rafamartinz)
 
+Proyecto [Gestión publicaciones redes sociales](https://github.com/IESJandula/gestion_redes_sociales.git) (Proyecto para gestionar publicaciones en redes sociales):
+- [Juan Manuel García Flores](https://github.com/Juanma23255)
+- [Jaime Araque Ruiz](https://github.com/jaimeAR10)
+- [Rafael Martínez Torralba](https://github.com/Rafamartinz)
+
+Proyecto [Gestión liga de tenis](https://github.com/IESJandula/gestion_liga_tenis.git) (Proyecto para gestionar partidos en una liga de tenis):
+- [Juan Manuel Herrera Expósito](https://github.com/juanmaherrera94)
+- [Alejandro Rodríguez Jiménez](https://github.com/alexrodrii18)
 
 # Calendario
 - Anteproyecto: viernes 7 de marzo
 - Revisión (checkpoint): jueves 22 de mayo
-- Entrega de proyecto: lunes 17 de junio
-- Exposiciones: miércoles 19 de junio
+- Entrega de proyecto: domingo 15 de junio
+- Exposiciones: martes 17 de junio
 # Presentación de proyectos
-La defensa de los proyectos se realizará el día 19 de Junio, cada alumno contará con 20 minutos para realizar la presentación de su proyecto y se dejarán 10 minutos para la formulación de preguntas por parte del tribunal.<br>
+La defensa de los proyectos se realizará el día 17 de Junio, cada alumno contará con 20 minutos para realizar la presentación de su proyecto y se dejarán 10 minutos para la formulación de preguntas por parte del tribunal.<br>
 El orden de exposición será el siguiente:
 
 DAM<br>
-09:00: Cazalla Pérez, Alejandro<br>
-09:30: Martínez Flores, David<br>
-10:00: Martínez Megías, Javier y Sutil Mesa, Juan<br>
-10:30: Ruiz Araque, Carlos<br>
-11:00: Ruiz Cánovas, Pablo Elías<br>
+
 
 DAW<br>
-17:00: Contreras López, Enrique<br>
-17:30: Gutiérrez Carmona, Francisco Manuel<br>
-18:00: Jurado Magdaleno, Alejandro<br>
-18:30: Jurado Bejarano, Ángel<br>
-19:00: Pino Castillo, José del<br>
+
 
 
 Para poder realizar la presentación del proyecto, el alumno deberá mandar en formato zip al tutor que le ha coordinado el proyecto los siguientes documentos:
-- Proyecto integrado siguiendo el guión orientativo y portada facilitada por el centro.
+- Proyecto siguiendo el guión orientativo y portada facilitada por el centro.
 - Presentación usada para exponer el proyecto.
 - Programa o web realizado en el proyecto.
 - Subir proyecto a github y compartir enlace público.
+- Video del proyecto en funcionamiento
 ## Lugar de las exposiciones
 Las presentaciones tendrán lugar en el aula de 2ºDAM/DAW del IES Jándula
