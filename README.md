@@ -39,6 +39,9 @@ Proyecto [Gestión liga de tenis](https://github.com/IESJandula/gestion_liga_ten
 - [Juan Manuel Herrera Expósito](https://github.com/juanmaherrera94)
 - [Alejandro Rodríguez Jiménez](https://github.com/alexrodrii18)
 
+Proyecto [Refactorización somosjandula](https://github.com/IESJandula/somosjandula-sinionic.git) (Proyecto en el que se rediseña la web de somosjandula con mejoras visuales):
+- [Alejandro Zambrana López](https://github.com/azamlop)
+
 # Calendario
 - Anteproyecto: viernes 7 de marzo
 - Revisión (checkpoint): jueves 22 de mayo
